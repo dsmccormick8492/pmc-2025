@@ -2,9 +2,6 @@
 title: "Pan Mass Challenge 2025"
 author: "David McCormick"
 date: "`r Sys.Date()`"
-output:
-  html_document:
-    df_print: paged
 documentclass: book
 bibliography:
 - book.bib
@@ -18,11 +15,13 @@ site: bookdown::bookdown_site
 ---
 # Nine years and rolling
 
-This year marked my 9th Pan Mass Challenge (PMC) ride to support the Jimmy Fund and Dana-Farber Cancer Institute. Despite a demanding work schedule, I was blessed to be joined by my daughter, Ellen, and two of my best friends: college friend, Ed Kenealy and my PhD advisor and long-time friend, John Grotzinger. For Ed, it was his 12th Pan Mass and the first time for John. 
+This year marked my 9th Pan Mass Challenge (PMC) ride to support the Jimmy Fund and Dana-Farber Cancer Institute. Despite a demanding work schedule, I was blessed to be joined by my daughter, Ellen, and two of my best friends: college friend, Ed Kenealy, and my PhD advisor and long-time friend, John Grotzinger. For Ed, it was his 12th Pan Mass and the first time for John. 
 
 I continue to be part of the fabulous Team Crank (https://profile.pmc.org/TC0198), that provides an incredible match to our fundraising from the Warren Alpert Foundation, this year to the tune of $750,000. The team is raised the full amount for the match and we donated over $1.5 million to Dana-Farber. All of your contributions were doubled, which meant I was able to contribute nearly $40,000. I am incredibly grateful to everyone who supported me. 
 
 What follows is my attempt to evoke the sights, sounds, and feelings of continuing to be part of something so worthwhile and larger than myself. Join me.
+
+David https://profile.unpaved.org/DM0478
 
 ```{r include=FALSE}
 # automatically create a bib database for R packages

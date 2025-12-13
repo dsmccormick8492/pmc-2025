@@ -54,16 +54,15 @@ The entire Team Crank regrouped before the finish so that we could all cross the
 
 ![Cathy and Bridget were the first to cross the line for Team Crank in Provincetown.](photos/pmc-2025-day-2-cathy-bridget.jpeg)
 
-`Day 2 done: 76 miles, 4 hours 25 minutes riding time, 6 hours 3 minutes total time.`
+## Day 2 results
+
+![Day 2 ride from Bourne to Provincetown. 76 miles, 4 hours 25 minutes riding time, 6 hours 3 minutes total time.](photos/pmc-2025-day-2-ridewithgps.png)
 
 ## Provincetown
 
 As is the custom, just after finishing, we took our team photo under the PMC banner. It's a moment of collective joy. The weather was so spectacularly good, that everyone was feeling well, no one overheated, fatigue, but mostly a sense of satisfaction. The training, the fundraising, the effort all behind us.
 
-```{r echo = FALSE}
-knitr::include_graphics("photos/pmc-2025-day-2-finish.jpeg")
-
-```
+![Team Crank at the at the PMC finish at the Provincetown Inn. All smiles.](photos/pmc-2025-day-2-finish.jpeg)
 
 The shower in the military shower tent always feels magnificent. Out of our rigid cycling shoes, strip off the sweaty clothing, let the warm water wash away the salt and grime. Utter bliss.
 

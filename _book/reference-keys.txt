@@ -16,3 +16,9 @@ years-and-rolling
 nine-years-and-rolling
 for-whom-we-ride
 first-pmc-kismet
+section
+day-2-results
+day-1-results
+after-day-1
+friends-enroute
+after-day-1-the-kindness-of-family-and-friends

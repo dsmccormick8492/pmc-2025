@@ -1,7 +1,7 @@
 ---
 output:
-  pdf_document: default
   html_document: default
+  pdf_document: default
 ---
 
 # Why I Ride
@@ -16,10 +16,9 @@ As the PMC motto says, we are closer by the mile.
 
 With immense gratitude,
 
-David McCormick
-
+David McCormick\
 Acton, Massachusetts\
-November 2025
+https://profile.pmc.org/DM0478
 
 ## For whom we ride
 
