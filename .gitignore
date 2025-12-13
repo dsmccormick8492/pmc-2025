@@ -51,9 +51,9 @@ rsconnect/
 # personal additions
 .DS_Store
 
-*.html
-*.css
-*.js
+#*.html
+#*.css
+#*.js
 
 *.pdf
 
