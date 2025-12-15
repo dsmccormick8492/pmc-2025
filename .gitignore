@@ -52,7 +52,7 @@ rsconnect/
 .DS_Store
 
 #*.html
-#*.css
+#.*.css
 #*.js
 
 *.pdf

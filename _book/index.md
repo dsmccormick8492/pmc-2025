@@ -1,7 +1,7 @@
 ---
 title: "Pan Mass Challenge 2025"
 author: "David McCormick"
-date: "`r Sys.Date()`"
+date: "2025-12-15"
 output:
   html_document:
     css: "style.css"
@@ -30,9 +30,4 @@ David
 
 <https://profile.pmc.org/DM0478>
 
-```{r include=FALSE}
-# automatically create a bib database for R packages
-knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
-), 'packages.bib')
-```
+

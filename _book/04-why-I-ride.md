@@ -28,10 +28,10 @@ Ebit Speers\
 Linn Ballou\
 Sue Speers\
 Susan Mann\
-Elinor Mann\
 Elisabeth Jaffe\
 Susan Gutchess\
 Jim Santaniello\
+Elinor Mann\
 Debra Goodwin\
 
 Al Bolea\
