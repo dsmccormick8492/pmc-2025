@@ -1,7 +1,7 @@
 ---
 title: "Pan Mass Challenge 2025"
 author: "David McCormick"
-date: "2025-12-15"
+date: "2026-01-01"
 output:
   html_document:
     css: "style.css"

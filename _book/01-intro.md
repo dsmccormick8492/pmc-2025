@@ -13,7 +13,7 @@ This year, we enlisted Ellen's fiancé and John's wife to ferry us from home to 
 
 The check-in process is efficient, where you pick up your PMC jersey that everyone wears on Day 1 along with the tags that you put on your bike that indicate your name, your town, and how many years you have ridden the PMC.
 
-![](photos/pmc-2025-day-0-dsm-bike-sign.jpeg){width="50%"}
+![Every PMC rider gets a nametag that shows where they live and how long they have been riding the PMC.](photos/pmc-2025-day-0-dsm-bike-sign.jpeg){width="50%"}
 
 One fun tradition is that if someone is a first-time rider, the staff will ring a loud cow-bell to alert the assembled mass that someone is new to PMC. My friend, John, was treated to this bell-ringing welcome.
 
