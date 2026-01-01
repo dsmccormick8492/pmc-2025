@@ -16,7 +16,7 @@ The check-in process is efficient, where you pick up your PMC jersey that everyo
 
 ![Every PMC rider gets a nametag that shows where they live and how long they have been riding the PMC.](photos/pmc-2025-day-0-dsm-bike-sign.jpeg){width="50%"}
 
-One fun tradition is that if someone is a first-time rider, the staff will ring a loud cow-bell to alert the assembled masses that someone is new to PMC. My friend, John, was treated to this bell-ringing welcome.
+One fun tradition is that if someone is a first-time rider, the staff will ring a loud cowbell to alert the assembled masses that someone is new to PMC. My friend, John, was treated to this bell-ringing welcome.
 
 After we get our packets, we affix the tags to our bikes, and put a tag to your shirt for when you are wandering around before and after the ride. Like with other mass-start events (think Boston or New York Marathons), these include an RFID chip that allows the PMC to track when everyone crosses timing strips when they leave Sturbridge and enter and leave every rest stop along the route, then arrive in the final stops, like Bourne on Day 1 or Provincetown on Day 2.
 
