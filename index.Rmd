@@ -24,7 +24,7 @@ This year marked my 9th Pan Mass Challenge (PMC) ride to support the Jimmy Fund 
 
 I continue to be part of the fabulous [Team Crank](https://profile.pmc.org/TC0198), that provides an incredible match to our fundraising from the [Warren Alpert Foundation](https://www.warrenalpertfoundation.org), this year to the tune of \$750,000. The team is raised the full amount for the match and we donated over \$1.5 million to Dana-Farber. All of your contributions were doubled, which meant I was able to contribute nearly \$40,000. I am incredibly grateful to everyone who supported me.
 
-What follows is my attempt to evoke the sights, sounds, and feelings of continuing to be part of something so worthwhile and larger than myself. Join me.
+What follows is my attempt to evoke the sights, sounds, and feelings of something so worthwhile and larger than myself. Join me.
 
 David
 

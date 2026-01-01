@@ -6,19 +6,19 @@ output:
 
 # Why I Ride
 
-There is a feeling that I get when I'm near the end of a long, demanding ride. It is often a combination of relief and elation: *relief* for being able to complete something that is demanding, possibly something that tested my current level of ability; *elation* for knowing it was demanding and I did it. Finishing the PMC adds another layer: I am often washed over by a wave of acute sadness and grief, the reminder of why we ride: for those we have lost, for those facing the trials and tribulations of active cancer treatment, for those supporting them, and for the wide web of all those affected by cancer.
+There is a feeling that I get when I'm near the end of a long, demanding ride. It is often a combination of relief and elation: *relief* for being able to complete something that is demanding, possibly something that tested my current level of ability; *elation* for knowing it was demanding and I was able to complete it. Finishing the PMC adds another layer: I am often washed over by a wave of acute sadness and grief, the reminder of why we ride: for those we have lost, for those facing the trials and tribulations of active cancer treatment, for those supporting them, and for the wide web of all those affected by cancer.
 
-In those moments, I am immensely grateful for what we can do individually and collectively how this adds up to so much: \$20,000 from you becomes \$40,000 from matching organizations, our Team Crank can donate \$1.5 million, and all the PMC riders donate \$78 million from a single weekend.
+In those moments, I am immensely grateful for what we can do individually and collectively how this adds up to so much: \$20,000 from you becomes \$40,000 from the 1:1 matching that Team Crank gets from the Warren Alpert Foundation; Team Crank donated over \$1.5 million to the PMC; and all the PMC riders donated \$78 million from a single weekend.
 
-Now more than ever, these contributions are essential to the never-ending mission of Dana-Farber to advance their world-class cancer treatment and research.  
+Now more than ever, these contributions are essential to the never-ending mission of Dana-Farber to advance their world-class cancer treatment and research.
 
-As the PMC motto says, we are closer by the mile.  
+As the PMC motto says, *we are closer by the mile*.
 
 With immense gratitude,
 
 David McCormick\
 Acton, Massachusetts\
-https://profile.pmc.org/DM0478
+<https://profile.pmc.org/DM0478>
 
 ## For whom we ride
 

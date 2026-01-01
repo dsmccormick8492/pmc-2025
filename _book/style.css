@@ -1,4 +1,6 @@
  /*------------- Whole Document---------------- */
+<style>
+
 body {
   font-family: "Times New Roman", Times, serif;
   font-size: 14px;
@@ -26,3 +28,5 @@ h3 {
   font-size: 14pt; /* Adjust size as needed */
 }
 /* Add rules for h4, h5, h6 if necessary */
+
+</style>
