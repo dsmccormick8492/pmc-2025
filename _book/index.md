@@ -2,6 +2,7 @@
 title: "Pan Mass Challenge 2025"
 author: "David McCormick"
 date: "2026-01-04"
+documentclass: book
 bibliography:
 - book.bib
 - packages.bib
@@ -11,7 +12,6 @@ description: |
 link-citations: true
 github-repo: "https://github.com/dsmccormick8492/pmc-2025"
 site: bookdown::bookdown_site
-documentclass: book
 ---
 
 # Nine years and rolling

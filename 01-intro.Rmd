@@ -1,7 +1,6 @@
 ---
 output:
-  html_document: 
-    css: "style.css"
+  html_document: default
   pdf_document: default
 ---
 
