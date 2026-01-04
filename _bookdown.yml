@@ -1,5 +1,1 @@
 delete_merged_file: true
-
-output:
-  html_document:
-    css: "style.css"

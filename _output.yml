@@ -1,6 +1,6 @@
 bookdown::gitbook:
-  css: "style.css"
+  css: style.css
   
 output:
   html_document:
-    css: "style.css"
+    css: style.css
