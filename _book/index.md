@@ -2,9 +2,6 @@
 title: "Pan Mass Challenge 2025"
 author: "David McCormick"
 date: "2026-01-04"
-output:
-  html_document: default
-  pdf_document: default
 bibliography:
 - book.bib
 - packages.bib
