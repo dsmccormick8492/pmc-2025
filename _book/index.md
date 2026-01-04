@@ -25,4 +25,3 @@ What follows is my attempt to evoke the sights, sounds, and feelings of somethin
 David
 
 <https://profile.pmc.org/DM0478>
-
