@@ -6,6 +6,7 @@ output:
 ---
 
 # The Last Ride out of Sturbridge
+
 For several decades, the main two-day PMC ride has started from Sturbridge, MA, and follows a well-trodden path to Bourne, MA, at the edge of Cape Cod. For a variety of reasons, the leadership of the PMC wanted to shift to a new starting location. After several years of planning, they intend to start from Worcester, MA, about 25 miles northeast of Sturbridge. So this year was the final year for a start from Sturbridge.
 
 This year was my 5th time riding from Sturbridge, but Ellen had never ridden from there. I had hoped that she would be able to ride from Sturbridge to have the "traditional" full PMC experience, and fortunately, she was able to join. Also, my friend, John, could have the full experience.
@@ -19,6 +20,8 @@ The check-in process is efficient, where you pick up your PMC jersey that everyo
 One fun tradition is that if someone is a first-time rider, the staff will ring a loud cowbell to alert the assembled masses that someone is new to PMC. My friend, John, was treated to this bell-ringing welcome.
 
 After we get our packets, we affix the tags to our bikes, and put a tag to your shirt for when you are wandering around before and after the ride. Like with other mass-start events (think Boston or New York Marathons), these include an RFID chip that allows the PMC to track when everyone crosses timing strips when they leave Sturbridge and enter and leave every rest stop along the route, then arrive in the final stops, like Bourne on Day 1 or Provincetown on Day 2.
+
+![My 2025 PMC jersey, tag, and the lei I picked up on Day 1.](photos/pmc-2025-jersey.png)
 
 Once we had put the tags on the bikes and unpacked in our hotel rooms, we go to the food area at the main hotel. Throughout the PMC weekend, there is abundant food and drink and you never pay for anything (having paid for it upfront with your registration fee). At Sturbridge there is a large tent with tables to eat and meet with friends and team members.
 

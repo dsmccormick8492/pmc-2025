@@ -1,10 +1,14 @@
 ---
 title: "Pan Mass Challenge 2025"
 author: "David McCormick"
-date: "2026-01-01"
+date: "2026-01-04"
+#output:
+#  html_document:
+#    css: style.css
+#  pdf_document: default
 output:
-  html_document:
-    css: "style.css"
+  bookdown::gitbook:
+    css: style.css
   pdf_document: default
 bibliography:
 - book.bib

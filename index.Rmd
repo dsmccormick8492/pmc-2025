@@ -2,9 +2,13 @@
 title: "Pan Mass Challenge 2025"
 author: "David McCormick"
 date: "`r Sys.Date()`"
+#output:
+#  html_document:
+#    css: style.css
+#  pdf_document: default
 output:
-  html_document:
-    css: "style.css"
+  bookdown::gitbook:
+    css: style.css
   pdf_document: default
 bibliography:
 - book.bib
