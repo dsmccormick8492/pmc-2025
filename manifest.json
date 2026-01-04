@@ -2986,7 +2986,7 @@
   },
   "files": {
     "_book/01-intro.md": {
-      "checksum": "7ccf27fb17c52953f36818a0d5dfe1f9"
+      "checksum": "4e6b2ab806ee871d13bdc26462cc4935"
     },
     "_book/02-Day-1.md": {
       "checksum": "872a50593760a30390ae70547f1bf4d3"
@@ -2998,22 +2998,22 @@
       "checksum": "ccc4c6ab4169b68194b24554b78b9294"
     },
     "_book/404.html": {
-      "checksum": "7e2183dbacf6c03e835292ff5594e064"
+      "checksum": "466df0100a6432509f3ca263ee7e8f63"
     },
     "_book/after-day-1.html": {
       "checksum": "344c403d75d97f05bab72bd01abddeee"
     },
     "_book/day-1-sturbridge-to-bourne-109-miles.html": {
-      "checksum": "6945d895bfedf2b6f7fcfdee9465a46a"
+      "checksum": "0331020f94445243bc1778dad68ec011"
     },
     "_book/day-2-bourne-to-provincetown-76-miles.html": {
-      "checksum": "85ecc1b9e86c155999730f7795059795"
+      "checksum": "46acad8f8c68a7fa6ce31f032cadbd4f"
     },
     "_book/index.html": {
-      "checksum": "32470c856565da398fb91918066e24ae"
+      "checksum": "40fa65eedd7b5d922403aa98a917b3a4"
     },
     "_book/index.md": {
-      "checksum": "6610596f2f68814d4cfaa7653f3e053c"
+      "checksum": "83c516de681f18e9b98de12dc8c477e5"
     },
     "_book/libs/anchor-sections-1.1.0/anchor-sections-hash.css": {
       "checksum": "cc71c646c089ba898bbfdc599c3b08a1"
@@ -3136,28 +3136,31 @@
       "checksum": "4fff1aefed4855f4d8ee6a4ff9f7176e"
     },
     "_book/search_index.json": {
-      "checksum": "28cb7e70ee21a2b7eb869e1dabd73d26"
+      "checksum": "160ff8029718cfd7eabed12b83ec4060"
     },
     "_book/style.css": {
       "checksum": "af425ae64141dcbe9ae39a08dc3bcc39"
     },
     "_book/the-last-ride-out-of-sturbridge.html": {
-      "checksum": "cd7afc786064a888ecb555066a75af59"
+      "checksum": "457696eea319e893bd5e8d1e5ba61512"
     },
     "_book/why-i-ride.html": {
-      "checksum": "b067e85763751b530fddf274b4295faf"
+      "checksum": "676bdc2fbae23e2a66eb903d51ca443a"
     },
     "_bookdown.yml": {
-      "checksum": "e0b2caf1aa0c3f1b810936d16195e878"
+      "checksum": "7b6ff690d0bd32226ca7a5bbb94f0ef5"
     },
     "_main.rds": {
       "checksum": "b5e833065a5401bda8ccb59ca61465db"
     },
     "_output.yml": {
-      "checksum": "622fb38e3c0f772caa00ee0cf63077b5"
+      "checksum": "29b4d4e2c0cd492825a269631cf9e4f8"
+    },
+    ".RData": {
+      "checksum": "fe909dffd889a0e58ba867d51d4b05ca"
     },
     "01-intro.Rmd": {
-      "checksum": "7ccf27fb17c52953f36818a0d5dfe1f9"
+      "checksum": "4e6b2ab806ee871d13bdc26462cc4935"
     },
     "02-Day-1.Rmd": {
       "checksum": "872a50593760a30390ae70547f1bf4d3"
@@ -3172,7 +3175,7 @@
       "checksum": "da9d9311a3433b995b206816a36a529d"
     },
     "index.Rmd": {
-      "checksum": "2046e6eb4834f44ec35e04b62dd374b8"
+      "checksum": "962de2cc6fc4ce44d829befd7ebdd715"
     },
     "make-abbreviated-names.R": {
       "checksum": "bf4ea0b16f11b4fbd4dae290792106c9"
